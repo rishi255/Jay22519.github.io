@@ -13,30 +13,29 @@
 ## Problem Statement 
 
 Creating a web application for automatic answer checking 
-
+<br>
+<br>
 ### Rough outline 
 
 Students can upload their hand written answer sheets which will be converted to text and will be automatically marked against the ideal/correct answer given by the evaluator/professor. After evaluation the evaluator/professor can verify the marks and can also overwrite the awarded marks  
-
+<br>
+<br>
 
 ### Tech Stack 
-1) Web application will be deployed using Django 
-2) Image and Language processing will be done using Python DL APIs
-3) Database to use -> {To be decided}
-4) Fronted application and designing -> {To be decided}
-
+1) Web application will be deployed using Django  <br>
+2) Image and Language processing will be done using Python DL APIs <br>
+3) Database to use -> {To be decided}  <br>
+4) Fronted application and designing -> {To be decided}  <br>
+<br><br>
 Further things to be added ..................
-
-
-
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 You can use the [editor on GitHub](https://github.com/Jay22519/Jay22519.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
