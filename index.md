@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Website for SoftLab project 
+### Team - 
+<br>
+1) Jay Puri Goswami
+2) Rishabh Agarwal 
+3) Rishikesh Rachchh
+4) Harshal Sable 
+5) Anurag Baral 
+6) Prince Sharma 
+7) Ashish Lakra 
 
 You can use the [editor on GitHub](https://github.com/Jay22519/Jay22519.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
